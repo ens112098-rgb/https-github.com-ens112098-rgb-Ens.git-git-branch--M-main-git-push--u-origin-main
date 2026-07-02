@@ -1,0 +1,19 @@
+parenting-tracker-app/
+├── src/
+│   ├── screens/
+│   │   ├── LoginScreen.tsx
+│   │   ├── DashboardScreen.tsx
+│   │   ├── LocationScreen.tsx
+│   │   ├── PhotosScreen.tsx
+│   │   ├── MessagesScreen.tsx
+│   │   └── SettingsScreen.tsx
+│   ├── components/
+│   ├── navigation/
+│   ├── utils/
+│   ├── types/
+│   ├── services/
+│   ├── App.tsx
+│   └── index.tsx
+├── app.json
+├── package.json
+└── README.md
