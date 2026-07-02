@@ -17,3 +17,6 @@ parenting-tracker-app/
 ├── app.json
 ├── package.json
 └── README.md
+git clone https://github.com/yourusername/parenting-tracker-app.git
+cd parenting-tracker-app
+
